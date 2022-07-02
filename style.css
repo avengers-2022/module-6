@@ -11,3 +11,23 @@ th {
 table {
     border-collapse: collapse;
 }
+
+nav ul {
+    display: flex;
+}
+
+nav ul li {
+    list-style: none;
+    margin: 20px;
+    padding: 20px;
+}
+
+nav ul li:hover {
+    background-color: aqua;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
