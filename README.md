@@ -1,4 +1,4 @@
-# module-6
+# module-6 : Responsive Web Layout
 6-1 HTML5 Audio, video, youtube video, embed iframe
 
 6-2 HTML5 Semantic tags section article header footer main
