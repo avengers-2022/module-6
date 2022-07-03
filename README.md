@@ -8,3 +8,6 @@
 6-4 Html form input label fieldset legend textarea submit
 
 6-5 Simple navbar and internal navigation among files
+
+6-6 Add nested menu dropdown option on mouseover
+
